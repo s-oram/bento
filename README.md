@@ -1,6 +1,6 @@
 # 🍱 Bento
 
-A delicious Scoop bucket.
+**A delicious Scoop bucket.**
 
 ## Usage
 
