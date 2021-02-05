@@ -16,7 +16,8 @@ scoop install bento/<app>
 
 ## Thanks
 
-- [Peach](https://github.com/ChungZH/peach) - for the excellent readme format 😉
+- [Scoop](https://scoop.sh/) - for the excellent package manager.
+- [Peach](https://github.com/ChungZH/peach) - for the excellent readme format. 😉
 
 ---
 
