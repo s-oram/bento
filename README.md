@@ -1,10 +1,10 @@
 # 🍱 Bento
 
-A delicious Scoop bucket.
+**A delicious Scoop bucket.**
 
 ## Usage
 
-```sh
+```powershell
 scoop bucket add bento https://github.com/s-oram/bento
 # Recommended, but you can omit the bucket name most of the time
 scoop install bento/<app>
@@ -16,7 +16,8 @@ scoop install bento/<app>
 
 ## Thanks
 
-- [Peach](https://github.com/ChungZH/peach) - for the excellent readme format 😉
+- [Scoop](https://scoop.sh/) - for the excellent package manager.
+- [Peach](https://github.com/ChungZH/peach) - for the excellent readme format. 😉
 
 ---
 
