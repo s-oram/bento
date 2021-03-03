@@ -14,10 +14,6 @@ scoop install bento/<app>
 
 - [**soul**](https://github.com/soul-lang/SOUL) - Soul modernises and optimises the way high-performance, low-latency audio code is written and executed.
 
-## Thanks
-
-- [Scoop](https://scoop.sh/) - for the excellent package manager.
-- [Peach](https://github.com/ChungZH/peach) - for the excellent readme format. 😉
 
 ---
 
